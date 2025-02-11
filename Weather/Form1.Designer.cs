@@ -38,7 +38,7 @@
             this.button1.BackColor = System.Drawing.Color.LightGray;
             this.button1.Location = new System.Drawing.Point(337, 129);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(300, 60);
+            this.button1.Size = new System.Drawing.Size(300, 62);
             this.button1.TabIndex = 0;
             this.button1.Text = "Показать Погоду";
             this.button1.UseVisualStyleBackColor = false;
