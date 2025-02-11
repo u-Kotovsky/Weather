@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\",
+  "WorkspaceRootPath": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\weather\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\kotovsky\\source\\repos\\weather\\weather\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\user\\source\\repos\\consoleapp15\\consoleapp15\\weather\\weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\kotovsky\\source\\repos\\weather\\weather\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\kotovsky\\source\\repos\\weather\\weather\\hintsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\hintsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\weather\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\kotovsky\\source\\repos\\weather\\weather\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\user\\source\\repos\\consoleapp15\\consoleapp15\\weather\\weather\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\kotovsky\\source\\repos\\weather\\weather\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\user\\source\\repos\\consoleapp15\\consoleapp15\\weather\\weather\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|c:\\users\\kotovsky\\source\\repos\\weather\\weather\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F667F0CF-5CAC-4617-AB27-AB7BFD025847}|Weather\\Weather.csproj|solutionrelative:weather\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,57 +37,56 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Weather\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\MainForm.Designer.cs",
+              "RelativeToolTip": "Weather\\MainForm.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:01:31.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HintSettingsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\HintSettingsForm.cs",
+              "RelativeDocumentMoniker": "Weather\\HintSettingsForm.cs",
+              "ToolTip": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\HintSettingsForm.cs [Design]",
+              "RelativeToolTip": "Weather\\HintSettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:25:26.387Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form2.cs",
-              "RelativeDocumentMoniker": "Weather\\Form2.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form2.cs",
-              "RelativeToolTip": "Weather\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBsAAAAJAAAAAAAAAA==",
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "Weather\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\SettingsForm.cs",
+              "RelativeToolTip": "Weather\\SettingsForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T13:32:53.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form2.Designer.cs",
-              "RelativeDocumentMoniker": "Weather\\Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form2.Designer.cs",
-              "RelativeToolTip": "Weather\\Form2.Designer.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T13:32:48.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Weather\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form1.Designer.cs",
-              "RelativeToolTip": "Weather\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T11:19:34.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form1.cs",
-              "RelativeDocumentMoniker": "Weather\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form1.cs",
-              "RelativeToolTip": "Weather\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\MainForm.cs",
+              "RelativeDocumentMoniker": "Weather\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\MainForm.cs",
+              "RelativeToolTip": "Weather\\MainForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T11:07:56.132Z",
               "EditorCaption": ""
@@ -95,26 +94,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form1.cs",
-              "RelativeDocumentMoniker": "Weather\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Weather\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\MainForm.cs",
+              "RelativeDocumentMoniker": "Weather\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\MainForm.cs [Design]",
+              "RelativeToolTip": "Weather\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T10:58:10.458Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form2.cs",
-              "RelativeDocumentMoniker": "Weather\\Form2.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Weather\\Weather\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Weather\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "Weather\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\Kotovsky\\source\\repos\\Weather\\Weather\\SettingsForm.cs [Design]",
+              "RelativeToolTip": "Weather\\SettingsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T11:01:13.418Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
