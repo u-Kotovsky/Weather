@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using Weather.Data;
+using Weather.Hints;
 
 namespace Weather
 {
@@ -9,15 +10,35 @@ namespace Weather
         private SettingsForm _settigns;
         public static WeatherAPI API { get; private set; }
 
+
         public MainForm()
         {
             InitializeComponent();
             API = new WeatherAPI();
+            HintManager.Load();
+            /*HintManager.ChangedData.hints.Add(new Hint()
+            {
+                ComparableValue = Hints.ValueType.TEMPERATURE,
+                CompareToValue = 30,
+                CompareType = CompareType.IS_BIGGER,
+                Message = "Сегодня пиздец как жарко!"
+            });
+            HintManager.ChangedData.hints.Add(new Hint()
+            {
+                ComparableValue = Hints.ValueType.TEMPERATURE,
+                CompareToValue = 0,
+                CompareType = CompareType.IS_SMALLER,
+                Message = "Сегодня пиздец как холодно!"
+            });
+            HintManager.Save();*/
+            //HintManager.DisplayHints();
         }
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-
+            //if (!File.Exists(HintManager.HINTS_PATH))
+            //{
+            //}
         }
 
         /// <summary>
@@ -27,7 +48,8 @@ namespace Weather
         /// <param name="e"></param>
         private void buttonRequestWeather_Click(object sender, EventArgs e)
         {
-            API.Fetch();
+            WeatherAPI.Fetch(SettingsManager.Data);
+            HintManager.DisplayHints();
         }
 
         /// <summary>

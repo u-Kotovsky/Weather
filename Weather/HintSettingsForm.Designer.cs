@@ -35,6 +35,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(259, 236);
+            this.MinimumSize = new System.Drawing.Size(275, 275);
             this.Name = "HintSettingsForm";
             this.Text = "Weather - Hint Settings";
             this.ResumeLayout(false);

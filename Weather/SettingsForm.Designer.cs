@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.buttonConfigureHints = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxSecretKey = new System.Windows.Forms.TextBox();
             this.languageComboBox = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -49,14 +49,15 @@
             this.buttonConfigureHints.UseVisualStyleBackColor = true;
             this.buttonConfigureHints.Click += new System.EventHandler(this.buttonConfigureHints_Click);
             // 
-            // textBox1
+            // textBoxSecretKey
             // 
-            this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.Location = new System.Drawing.Point(27, 36);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(245, 20);
-            this.textBox1.TabIndex = 4;
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBoxSecretKey.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textBoxSecretKey.Location = new System.Drawing.Point(27, 36);
+            this.textBoxSecretKey.Name = "textBoxSecretKey";
+            this.textBoxSecretKey.Size = new System.Drawing.Size(245, 20);
+            this.textBoxSecretKey.TabIndex = 4;
+            this.textBoxSecretKey.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBoxSecretKey.TextChanged += new System.EventHandler(this.textBoxSecretKey_TextChanged);
             // 
             // languageComboBox
             // 
@@ -89,10 +90,10 @@
             this.panel1.Controls.Add(this.buttonCancel);
             this.panel1.Controls.Add(this.buttonSave);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.textBoxSecretKey);
             this.panel1.Controls.Add(this.languageComboBox);
             this.panel1.Controls.Add(this.buttonConfigureHints);
-            this.panel1.Location = new System.Drawing.Point(1, 1);
+            this.panel1.Location = new System.Drawing.Point(2, 1);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(300, 218);
             this.panel1.TabIndex = 7;
@@ -105,6 +106,7 @@
             this.buttonCancel.TabIndex = 8;
             this.buttonCancel.Text = "Cancel";
             this.buttonCancel.UseVisualStyleBackColor = true;
+            this.buttonCancel.Click += new System.EventHandler(this.buttonCancel_Click);
             // 
             // buttonSave
             // 
@@ -114,13 +116,15 @@
             this.buttonSave.TabIndex = 7;
             this.buttonSave.Text = "Save";
             this.buttonSave.UseVisualStyleBackColor = true;
+            this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
             // SettingsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(303, 221);
+            this.ClientSize = new System.Drawing.Size(304, 221);
             this.Controls.Add(this.panel1);
+            this.MinimumSize = new System.Drawing.Size(320, 260);
             this.Name = "SettingsForm";
             this.Text = "Weather - Settings";
             this.Load += new System.EventHandler(this.SettingsForm_Load);
@@ -132,7 +136,7 @@
 
         #endregion
         private System.Windows.Forms.Button buttonConfigureHints;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxSecretKey;
         private System.Windows.Forms.ComboBox languageComboBox;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel1;

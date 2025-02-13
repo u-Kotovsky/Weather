@@ -37,7 +37,7 @@
             // 
             this.buttonRequestWeather.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.buttonRequestWeather.BackColor = System.Drawing.Color.LightGray;
-            this.buttonRequestWeather.Location = new System.Drawing.Point(50, 59);
+            this.buttonRequestWeather.Location = new System.Drawing.Point(49, 60);
             this.buttonRequestWeather.Name = "buttonRequestWeather";
             this.buttonRequestWeather.Size = new System.Drawing.Size(300, 62);
             this.buttonRequestWeather.TabIndex = 0;
@@ -48,7 +48,7 @@
             // buttonSettings
             // 
             this.buttonSettings.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.buttonSettings.Location = new System.Drawing.Point(50, 162);
+            this.buttonSettings.Location = new System.Drawing.Point(49, 163);
             this.buttonSettings.Name = "buttonSettings";
             this.buttonSettings.Size = new System.Drawing.Size(300, 60);
             this.buttonSettings.TabIndex = 1;
@@ -59,7 +59,7 @@
             // buttonQuit
             // 
             this.buttonQuit.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.buttonQuit.Location = new System.Drawing.Point(50, 279);
+            this.buttonQuit.Location = new System.Drawing.Point(49, 280);
             this.buttonQuit.Name = "buttonQuit";
             this.buttonQuit.Size = new System.Drawing.Size(300, 60);
             this.buttonQuit.TabIndex = 2;
@@ -71,10 +71,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(400, 384);
+            this.ClientSize = new System.Drawing.Size(399, 386);
             this.Controls.Add(this.buttonQuit);
             this.Controls.Add(this.buttonSettings);
             this.Controls.Add(this.buttonRequestWeather);
+            this.MinimumSize = new System.Drawing.Size(415, 425);
             this.Name = "MainForm";
             this.Text = "Weather";
             this.Load += new System.EventHandler(this.MainForm_Load);

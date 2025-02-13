@@ -59,12 +59,18 @@
     <Compile Include="HintSettingsForm.Designer.cs">
       <DependentUpon>HintSettingsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Hints\CompareType.cs" />
+    <Compile Include="Hints\Hint.cs" />
+    <Compile Include="Hints\HintData.cs" />
+    <Compile Include="Hints\HintManager.cs" />
+    <Compile Include="Hints\ValueType.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="SettingsData.cs" />
     <Compile Include="SettingsForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,8 @@
     <Compile Include="Data\Main.cs" />
     <Compile Include="Data\Rain.cs" />
     <Compile Include="Data\Wind.cs" />
+    <Compile Include="SettingsManager.cs" />
+    <Compile Include="XmlUtility.cs" />
     <EmbeddedResource Include="HintSettingsForm.resx">
       <DependentUpon>HintSettingsForm.cs</DependentUpon>
     </EmbeddedResource>
