@@ -16,22 +16,6 @@ namespace Weather
             InitializeComponent();
             API = new WeatherAPI();
             HintManager.Load();
-            /*HintManager.ChangedData.hints.Add(new Hint()
-            {
-                ComparableValue = Hints.ValueType.TEMPERATURE,
-                CompareToValue = 30,
-                CompareType = CompareType.IS_BIGGER,
-                Message = "Сегодня пиздец как жарко!"
-            });
-            HintManager.ChangedData.hints.Add(new Hint()
-            {
-                ComparableValue = Hints.ValueType.TEMPERATURE,
-                CompareToValue = 0,
-                CompareType = CompareType.IS_SMALLER,
-                Message = "Сегодня пиздец как холодно!"
-            });
-            HintManager.Save();*/
-            //HintManager.DisplayHints();
         }
 
         private void MainForm_Load(object sender, EventArgs e)
